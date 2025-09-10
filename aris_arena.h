@@ -155,8 +155,6 @@ void aris_arena_dump(aris_arena *arena)
 
 #ifdef ARIS_ARENA_STRIP_PREFIX
 
-#define arena_block  aris_arena_block
-#define arena        aris_arena
 #define arena_init   aris_arena_init
 #define arena_free   aris_arena_free
 #define arena_rewind aris_arena_rewind
