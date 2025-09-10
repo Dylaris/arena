@@ -1,4 +1,4 @@
-# arena
+# aris_arena
 
 ## Brief
 
