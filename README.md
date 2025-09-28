@@ -1,8 +1,17 @@
-# aris_arena.h
+# arena.h
 
 ## Brief
 
 Arena Allocator implementation in C99 as a stb-style library.
+
+## Usage
+
+Add this in your file:
+
+```c
+#define ARENA_IMPLEMENTATION
+#include "arena.h"
+```
 
 ## Reference
 
