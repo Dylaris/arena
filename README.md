@@ -1,4 +1,4 @@
-# arena.h
+# arena
 
 ## Brief
 
